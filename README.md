@@ -10,8 +10,8 @@ Part 2: Exploratory Data Project - Tell a story with a dataset of your choosing.
 
 # Impact of Streaming on Music Industry Guide
 Part 1: Initial Look at Dataset - Reading and opening the Streaming Dataset.
-Part 2: Impact of Streaming - Looking at the impact of the streaming services, the countries value in the market, and
-Part 3: Deep Dive into the - Correlation study on all other kep.
+Part 2: Impact of Streaming - Looking at the impact of the streaming services and the country's (United States) value in the marketplace.
+Part 3: Deep Dive into the Pros and Cons of streaming on the industry
 Part 4: Individual Leaderboards - A look at how this dataset has allowed for an increase in positive recognition for our athletes.
 Part 5: Conclusion
 Datasets Used in this Project
