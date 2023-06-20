@@ -17,7 +17,8 @@ Part 5: Conclusion
 
 ## Datasets Used in this Project
 Diamonds.CSV
-Post-Hudl Era Database
+https://dima.org/wp-content/uploads/2018/09/DiMA-report-3.pdf
+
 
 ## Other Projects
 Index	Class	Project Link
